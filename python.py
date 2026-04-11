@@ -1,7 +1,12 @@
+# Print a greeting message
+print("Hello, World!")
 
-print("helloworld!")
-x = 4
-y = 4
+# Assign values to variables
+x = 4  # First number
+y = 4  # Second number
+
+# Calculate the sum of x and y
 ans = x + y
 
+# Print the result
 print(ans)
