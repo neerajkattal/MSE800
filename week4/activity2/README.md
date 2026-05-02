@@ -65,7 +65,3 @@ Perimeter: 30
 ```
 
 ---
-
-##  Author
-
-Your Name
